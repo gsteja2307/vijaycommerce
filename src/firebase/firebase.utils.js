@@ -3,14 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyAOQnaWBR_AIA8VOqfua_m6li7b4TqxE0Y",
-  authDomain: "vijaycommerce-db.firebaseapp.com",
-  databaseURL: "https://vijaycommerce-db.firebaseio.com",
-  projectId: "vijaycommerce-db",
-  storageBucket: "vijaycommerce-db.appspot.com",
-  messagingSenderId: "461709027947",
-  appId: "1:461709027947:web:37f940671635e78c551f2e",
-  measurementId: "G-ZFMTXDJGT0"
+  apiKey: "AIzaSyAS8U1hN7mkAkHucov8RApnJGf9TsyMkNE",
+  authDomain: "vijaycommerce-db-55da3.firebaseapp.com",
+  databaseURL: "https://vijaycommerce-db-55da3.firebaseio.com",
+  projectId: "vijaycommerce-db-55da3",
+  storageBucket: "vijaycommerce-db-55da3.appspot.com",
+  messagingSenderId: "326197256183",
+  appId: "1:326197256183:web:ee87d19b48d4d74849d8f2",
+  measurementId: "G-F0K4J01KWB"
 };
 
 firebase.initializeApp(config);
